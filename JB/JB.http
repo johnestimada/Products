@@ -1,0 +1,6 @@
+@JB_HostAddress = http://localhost:5193
+
+GET {{JB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
